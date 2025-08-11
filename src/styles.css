@@ -172,6 +172,10 @@ section {
   padding: 100px;
 }
 
+.instagram-embeds {
+    margin-top: 10px;
+}
+
 section.secondary {
   background: #f8f8f8;
 }
